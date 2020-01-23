@@ -15,3 +15,7 @@ A program which tracks the sneakers you've had your eyes on and notifies you of 
 ## Authors
 
 * **Matthew O'Connell (me!)**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
